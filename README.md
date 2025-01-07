@@ -1,51 +1,17 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A Tecnologia na Inovação dos Jogos de Tabuleiro ♟️🎲
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um e-book que traz um novo olhar sobre os clássicos jogos de tabuleiro através de uma perspectiva moderna com a inclusão da tecnologia nas partidas.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- IA Generativa **[ChatGPT](https://chat.openai.com)** para roteirização;
+- IA Generativa **[DALL-E](https://chatgpt.com/g/g-2fkFE8rbu-dall-e)** para criar a arte visual do e-book;
+- Ferramenta **Microsoft Word** para edição.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Usei o ChatGPT pra transcrever as informações encontradas on-line sobre o tema em um texto coerente e estruturado em tópicos. Para a composição da capa utilizei uma imagem que gerei no DALL-E. Por fim, para a edição do layout do texto em formato adequado para livro digital utilizei o Microsoft Word. 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A utilização das IAs Generativas para o desenvolvimento de um produto de conteúdo informativo demonstrou a capacidade da sua ampla utilização para aumentar a eficiência da criação, não somente por proporcionar a possibilidade de uma mesma pessoa produzir tanto o conteúdo de texto como a ilustração, como também pela facilidade e agilidade agregadas ao processo. 
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+[e-Book_ATecnologianaInovaçãodosJogosdeTabuleiro_FulanodeTal.pdf](https://github.com/user-attachments/files/18336609/e-Book_ATecnologianaInovacaodosJogosdeTabuleiro_FulanodeTal.pdf)
