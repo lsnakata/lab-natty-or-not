@@ -14,4 +14,4 @@ Usei o ChatGPT pra transcrever as informações encontradas on-line sobre o tema
 ## 🚀 Resultados
 A utilização das IAs Generativas para o desenvolvimento de um produto de conteúdo informativo demonstrou a capacidade da sua ampla utilização para aumentar a eficiência da criação, não somente por proporcionar a possibilidade de uma mesma pessoa produzir tanto o conteúdo de texto como a ilustração, como também pela facilidade e agilidade agregadas ao processo. 
 
-[e-Book_ATecnologianaInovaçãodosJogosdeTabuleiro_FulanodeTal.pdf](https://github.com/user-attachments/files/18336609/e-Book_ATecnologianaInovacaodosJogosdeTabuleiro_FulanodeTal.pdf)
+[e-Book aqui 📖](https://github.com/user-attachments/files/18336609/e-Book_ATecnologianaInovacaodosJogosdeTabuleiro_FulanodeTal.pdf)
